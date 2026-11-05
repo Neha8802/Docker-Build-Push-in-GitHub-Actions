@@ -9,4 +9,4 @@ COPY . .
 
 EXPOSE 80
 
-CMD ["python", "run.py"]
+CMD ["python", "app.py"]
